@@ -1,0 +1,10 @@
+!Loop
+Assistant.Macros.DoubleClickAction|1075734123|3948
+Assistant.Macros.WaitForGumpAction|3773199800|False|300
+Assistant.Macros.GumpResponseAction|1|1|7|0
+Assistant.Macros.UseSkillAction|47
+Assistant.Macros.PauseAction|00:00:00.5000000
+Assistant.Macros.DoubleClickAction|1073751695|3948
+Assistant.Macros.WaitForGumpAction|3773199800|False|300
+Assistant.Macros.GumpResponseAction|1|1|9|0
+Assistant.Macros.PauseAction|00:00:10

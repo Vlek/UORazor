@@ -1,0 +1,6 @@
+!Loop
+Assistant.Macros.MacroCastSpellAction|53
+Assistant.Macros.WaitForTargetAction|5
+Assistant.Macros.AbsoluteTargetAction|0|1|70819|1664|3081|26|400
+Assistant.Macros.UseSkillAction|46
+Assistant.Macros.IfAction|1|0|40

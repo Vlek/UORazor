@@ -1,0 +1,5 @@
+!Loop
+Assistant.Macros.UseSkillAction|14
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1075619605|5346|3964|2|1993
+Assistant.Macros.PauseAction|00:16:40

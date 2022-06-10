@@ -1,0 +1,15 @@
+Assistant.Macros.ForAction|15
+Assistant.Macros.MacroCastSpellAction|32
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1086896408|141|90|0|3834
+Assistant.Macros.ForAction|30
+// Here's the mining part
+Assistant.Macros.EndForAction
+Assistant.Macros.DoubleClickAction|1086896408|3834
+Assistant.Macros.WaitForGumpAction|1431013363|False|300
+Assistant.Macros.GumpResponseAction|3|0|0
+Assistant.Macros.WaitForGumpAction|1431013363|False|300
+Assistant.Macros.GumpResponseAction|0|0|0
+Assistant.Macros.LiftTypeAction|7956|1
+Assistant.Macros.DropAction|0x40C8B918|(-1, -1, 0)|0
+Assistant.Macros.EndForAction

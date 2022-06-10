@@ -1,0 +1,4 @@
+!Loop
+Assistant.Macros.UseSkillAction|16
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.TargetTypeAction|True|400
